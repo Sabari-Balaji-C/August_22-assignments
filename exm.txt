@@ -1,0 +1,15 @@
+1. c) 538 511 5+38  
+2. d) 11 10  
+3. a) 62  
+4. c) 65  
+5. A) Compile Time Error  
+6. B) false  
+7. B) True True True  
+8. A) Compile Time Error  
+9. C) Both the Above  
+10. C) Compile Time Error  
+11. b) Using `<%jsp:param>` tag  
+12. c) export  
+13. a) id, class  
+14. d) All mentioned above  
+15. c) All the above

@@ -1,0 +1,20 @@
+1. C) run()
+2. D) Has-A
+3. A) Double 12
+4. C) 1 2 3
+5. C) class Second extends First { }
+6. A) Error as no constructor in enum
+7. B) false
+8. C) class Derived extends Base implements interface_name
+9. D) All the Above
+10. C) 38
+11. C) Hi
+12. B) iii
+13. B) All
+14. B) Test Main
+15. C) hashCode()
+16. A) Class First
+17. B) line 2
+18. C) i, ii, iv
+19. B) Hello World
+20. D) 29

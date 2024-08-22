@@ -1,0 +1,25 @@
+1. B) ParseException
+2. D) all the above
+3. B) B C Z
+4. A) B X Z
+5. B) 3 1
+6. B) 2 1
+7. B) Hi Program End
+8. B) Array Size Small...
+9. D) Array Size is Small
+10. D) Compile Time Error
+11. B) ArrayList
+12. C) Set
+13. B) LinkedHashSet
+14. D) ALL
+15. B) TreeSet
+16. C) clear()
+17. C) Map
+18. B) Babbar
+19. B) 102
+20. D) All
+21. B) set()
+22. A) String
+23. B) compare(object, object)
+24. A) Generics
+25. C) Vector
